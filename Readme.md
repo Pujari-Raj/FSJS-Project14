@@ -16,7 +16,7 @@ Technologies/ Tools Used:
 
 Click on the below given link to get the preview of the page
 
-<a href="">
+<a href="https://app.netlify.com/sites/pujari-project14/settings/domain">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
 
